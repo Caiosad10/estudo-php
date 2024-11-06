@@ -54,7 +54,7 @@ pg_close($conexao);
 
 // pg_close($conexao) -> Aqui iremos encerrar a conexão
 
-//OBS: Indicação de erro no codig pois provavelmente as funções do PostgreSQL precisam ser instaladas.
+//OBS: Indicação de erro no codigo pois provavelmente as funções do PostgreSQL precisam ser instaladas - CONFIRMADO -> É necessario instalar a extensão/Driver do PostgreSQL, lá estarão as bibliotecas que contem as funções que justamente estão dando erro.
 
 
 
